@@ -1,0 +1,598 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\user\\joblisting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\user\\joblisting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|c:\\users\\tahscene\\source\\repos\\jobspeakjobportal\\jobspeakjobportal\\user\\joblisting.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\user\\joblisting.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\user\\jobdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\user\\jobdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\user\\jobdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\user\\jobdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\admin\\contactlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\admin\\contactlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\user\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\user\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\admin\\adminmaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\admin\\adminmaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\admin\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\admin\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\admin\\viewresume.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\admin\\viewresume.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\admin\\viewresume.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\admin\\viewresume.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\admin\\joblist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\admin\\joblist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\admin\\joblist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\admin\\joblist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\admin\\newjob.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\admin\\newjob.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\admin\\contactlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\admin\\contactlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\admin\\newjob.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\admin\\newjob.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\user\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\admin\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\admin\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\user\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\user\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\user\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\user\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\admin\\userlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\admin\\userlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\user\\resumebuild.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\user\\resumebuild.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\user\\resumebuild.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\user\\resumebuild.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\user\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\user\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\user\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\user\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\user\\usermaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\user\\usermaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\user\\usermaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\user\\usermaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\admin\\userlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\admin\\userlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\user\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\user\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\user\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\user\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|JobSpeakJobPortal||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\user\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\user\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\jobspeakjobportal\\user\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1FB77949-69E4-4869-8265-2B6DD5103C2F}|JobSpeakJobPortal\\JobSpeakJobPortal.csproj|solutionrelative:jobspeakjobportal\\user\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 151,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 32,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\JobDetails.aspx.cs",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\User\\JobDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\JobDetails.aspx.cs",
+              "RelativeToolTip": "JobSpeakJobPortal\\User\\JobDetails.aspx.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T06:31:51.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewResume.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\ViewResume.aspx.cs",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\Admin\\ViewResume.aspx.cs",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\ViewResume.aspx.cs",
+              "RelativeToolTip": "JobSpeakJobPortal\\Admin\\ViewResume.aspx.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAACsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T05:21:12.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewResume.aspx",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\ViewResume.aspx",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\Admin\\ViewResume.aspx",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\ViewResume.aspx",
+              "RelativeToolTip": "JobSpeakJobPortal\\Admin\\ViewResume.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-13T05:11:00.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminMaster.Master.cs",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\AdminMaster.Master.cs",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\Admin\\AdminMaster.Master.cs",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\AdminMaster.Master.cs",
+              "RelativeToolTip": "JobSpeakJobPortal\\Admin\\AdminMaster.Master.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAWwBMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:56:52.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContactList.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\ContactList.aspx.cs",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\Admin\\ContactList.aspx.cs",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\ContactList.aspx.cs",
+              "RelativeToolTip": "JobSpeakJobPortal\\Admin\\ContactList.aspx.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAmwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:48:01.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserList.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\UserList.aspx.cs",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\Admin\\UserList.aspx.cs",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\UserList.aspx.cs",
+              "RelativeToolTip": "JobSpeakJobPortal\\Admin\\UserList.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:18:03.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserList.aspx",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\UserList.aspx",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\Admin\\UserList.aspx",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\UserList.aspx",
+              "RelativeToolTip": "JobSpeakJobPortal\\Admin\\UserList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-13T04:14:06.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\Admin\\Dashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\Dashboard.aspx.cs",
+              "RelativeToolTip": "JobSpeakJobPortal\\Admin\\Dashboard.aspx.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAGUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:44:32.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobListing.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\JobListing.aspx.cs",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\User\\JobListing.aspx.cs",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\JobListing.aspx.cs",
+              "RelativeToolTip": "JobSpeakJobPortal\\User\\JobListing.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:17:59.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ResumeBuild.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\ResumeBuild.aspx.cs",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\User\\ResumeBuild.aspx.cs",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\ResumeBuild.aspx.cs",
+              "RelativeToolTip": "JobSpeakJobPortal\\User\\ResumeBuild.aspx.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAmwNMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:23:31.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ResumeBuild.aspx",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\ResumeBuild.aspx",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\User\\ResumeBuild.aspx",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\ResumeBuild.aspx",
+              "RelativeToolTip": "JobSpeakJobPortal\\User\\ResumeBuild.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-12T08:21:51.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Utils.cs",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\Utils.cs",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Utils.cs",
+              "RelativeToolTip": "JobSpeakJobPortal\\Utils.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:39:14.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Profile.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\Profile.aspx.cs",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\User\\Profile.aspx.cs",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\Profile.aspx.cs",
+              "RelativeToolTip": "JobSpeakJobPortal\\User\\Profile.aspx.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:49:04.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Profile.aspx",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\Profile.aspx",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\User\\Profile.aspx",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\Profile.aspx",
+              "RelativeToolTip": "JobSpeakJobPortal\\User\\Profile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T14:44:24.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactList.aspx",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\ContactList.aspx",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\Admin\\ContactList.aspx",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\ContactList.aspx",
+              "RelativeToolTip": "JobSpeakJobPortal\\Admin\\ContactList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-11T14:29:06.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JobList.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\JobList.aspx.cs",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\Admin\\JobList.aspx.cs",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\JobList.aspx.cs",
+              "RelativeToolTip": "JobSpeakJobPortal\\Admin\\JobList.aspx.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:22:41.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JobList.aspx",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\JobList.aspx",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\Admin\\JobList.aspx",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\JobList.aspx",
+              "RelativeToolTip": "JobSpeakJobPortal\\Admin\\JobList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-10T05:02:54.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\Default.aspx",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\User\\Default.aspx",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\Default.aspx",
+              "RelativeToolTip": "JobSpeakJobPortal\\User\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T12:54:40.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Contact.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\Contact.aspx.cs",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\User\\Contact.aspx.cs",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\Contact.aspx.cs",
+              "RelativeToolTip": "JobSpeakJobPortal\\User\\Contact.aspx.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAI8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:07:05.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\JobDetails.aspx",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\User\\JobDetails.aspx",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\JobDetails.aspx",
+              "RelativeToolTip": "JobSpeakJobPortal\\User\\JobDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T14:33:00.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NewJob.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\NewJob.aspx.cs",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\Admin\\NewJob.aspx.cs",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\NewJob.aspx.cs",
+              "RelativeToolTip": "JobSpeakJobPortal\\Admin\\NewJob.aspx.cs",
+              "ViewState": "AQIAANkAAAAAAAAAAAAiwPQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:50:24.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewJob.aspx",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\NewJob.aspx",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\Admin\\NewJob.aspx",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\NewJob.aspx",
+              "RelativeToolTip": "JobSpeakJobPortal\\Admin\\NewJob.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-09T14:24:39.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\Login.aspx",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\User\\Login.aspx",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\Login.aspx",
+              "RelativeToolTip": "JobSpeakJobPortal\\User\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-16T12:50:49.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\Register.aspx",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\User\\Register.aspx",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\Register.aspx",
+              "RelativeToolTip": "JobSpeakJobPortal\\User\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-14T05:33:10.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Web.config",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\Web.config",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Web.config",
+              "RelativeToolTip": "JobSpeakJobPortal\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-30T13:17:29.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserMaster.Master.cs",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\UserMaster.Master.cs",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\User\\UserMaster.Master.cs",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\UserMaster.Master.cs",
+              "RelativeToolTip": "JobSpeakJobPortal\\User\\UserMaster.Master.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAADYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:11:23.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\Admin\\Dashboard.aspx",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\Dashboard.aspx",
+              "RelativeToolTip": "JobSpeakJobPortal\\Admin\\Dashboard.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-16T13:35:58.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminMaster.Master",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\AdminMaster.Master",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\Admin\\AdminMaster.Master",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\Admin\\AdminMaster.Master",
+              "RelativeToolTip": "JobSpeakJobPortal\\Admin\\AdminMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-16T13:35:30.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\assets\\css\\style.css",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\assets\\css\\style.css",
+              "RelativeToolTip": "JobSpeakJobPortal\\assets\\css\\style.css",
+              "ViewState": "AQIAANgPAACAHcdXDRwlwOYPAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-16T07:41:50.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "JobSpeakJobPortal",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\JobSpeakJobPortal.csproj",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\JobSpeakJobPortal.csproj",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\JobSpeakJobPortal.csproj",
+              "RelativeToolTip": "JobSpeakJobPortal\\JobSpeakJobPortal.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-16T05:25:53.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\User\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\Login.aspx.cs",
+              "RelativeToolTip": "JobSpeakJobPortal\\User\\Login.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:08:52.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\User\\Register.aspx.cs",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\Register.aspx.cs",
+              "RelativeToolTip": "JobSpeakJobPortal\\User\\Register.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:33:16.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobListing.aspx",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\JobListing.aspx",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\User\\JobListing.aspx",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\JobListing.aspx",
+              "RelativeToolTip": "JobSpeakJobPortal\\User\\JobListing.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T14:30:35.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\Contact.aspx",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\User\\Contact.aspx",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\Contact.aspx",
+              "RelativeToolTip": "JobSpeakJobPortal\\User\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T13:35:07.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\About.aspx",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\User\\About.aspx",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\About.aspx",
+              "RelativeToolTip": "JobSpeakJobPortal\\User\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T13:27:12.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserMaster.Master",
+              "DocumentMoniker": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\UserMaster.Master",
+              "RelativeDocumentMoniker": "JobSpeakJobPortal\\User\\UserMaster.Master",
+              "ToolTip": "C:\\Users\\Tahscene\\source\\repos\\JobSpeakJobPortal\\JobSpeakJobPortal\\User\\UserMaster.Master",
+              "RelativeToolTip": "JobSpeakJobPortal\\User\\UserMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T08:36:40.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
