@@ -1,6 +1,21 @@
-<h1>💼 Your Gateway to Career Success: <strong>JobSpeak Awaits</strong> 🚀</h1>
+<h1> Your Gateway to Career Success: <strong>JobSpeak Awaits</strong> 💼</h1>
 <p>Discover the perfect job opportunities with <strong>JobSpeak</strong>, your ultimate job portal for job seekers, employers, and administrators! 🏢</p>
+<div style="text-align: center;">
+  <img src="https://github.com/Tahscene/JobsSpeak/blob/main/Screenshot%202025-05-18%20222527.png?raw=true" 
+       alt="Bugless Solution Screenshot" 
+       width="40%" 
+       style="border-radius: 8px; border: 1px solid #ccc; margin: 10px;" />
 
+  <img src="https://github.com/Tahscene/JobsSpeak/blob/main/Screenshot%202025-05-18%20222538.png?raw=true" 
+       alt="Bugless Solution Screenshot" 
+       width="40%" 
+       style="border-radius: 8px; border: 1px solid #ccc; margin: 10px;" />
+
+  <img src="https://github.com/Tahscene/JobsSpeak/blob/main/Screenshot%202025-05-18%20222735.png?raw=true" 
+       alt="Bugless Solution Screenshot" 
+       width="40%" 
+       style="border-radius: 8px; border: 1px solid #ccc; margin: 10px;" />
+</div>
 <h2> 📄 Project Overview</h2>
 <p>
   Job hunting and recruitment can be overwhelming. To simplify this process, we created <strong>JobSpeak</strong>, a dynamic job portal built with ASP.NET. JobSpeak allows job seekers to find suitable job listings, apply for positions, and manage their profiles. Employers can post job openings, review applications, and hire talent. The admin panel ensures smooth operation by verifying employers and job seekers, maintaining security and reliability.
